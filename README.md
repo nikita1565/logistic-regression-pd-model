@@ -53,6 +53,13 @@ logistic-regression-pd-model/
 ├── scripts/
 ├── outputs/
 └── README.md
+---
+
+## 📄 Model Output
+The complete PD model implementation and results are available in HTML format.
+Please open the file below to view data preprocessing, model development, and evaluation outputs:
+
+- outputs/logistic_regression.html
 
 ---
 
