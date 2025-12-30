@@ -56,10 +56,11 @@ logistic-regression-pd-model/
 ---
 
 ## 📄 Model Output
-The complete PD model implementation and results are available in HTML format.
+The complete PD model implementation and results are provided in a Jupyter Notebook (.ipynb) format, including data preprocessing, model development, and performance evaluation.
+
 Please open the file below to view data preprocessing, model development, and evaluation outputs:
 
-- outputs/logistic_regression.html
+- outputs/logistic_regression.ipynb
 
 ---
 
